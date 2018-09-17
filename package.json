@@ -1,0 +1,14 @@
+{
+  "name": "ImmerGO_dummy_server",
+  "version": "1.0.0",
+  "description": "Dummy server for ImmerGO",
+  "main": "ImmerGO_dummy.js",
+  "author": "tonetechnician",
+  "license": "MIT",
+  "dependencies": {
+    "osc": "^2.2.4"
+  },
+  "scripts" : {
+  	"start" : "node ImmerGO_dummy.js"
+  }
+}
